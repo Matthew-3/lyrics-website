@@ -1,0 +1,85 @@
+/* fonts */
+@font-face {
+    font-family: f_title;
+    src: url('./fnt_title.ttf');
+}
+
+@font-face {
+    font-family: f_content;
+    src: url('./fnt_cont.ttf');
+}
+/* styles */
+
+* {
+    margin: 0;
+}
+#title-bar {
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 100vw;
+    height: 50px;
+    box-shadow: #000000 2px 2px 3px;
+    position: sticky;
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 22px;
+    font-family: f_title, Helvetica;
+}
+
+#c-songs {
+    position: absolute;
+    font-size: 1rem;
+    left: 10px;
+    box-shadow: black 2px 2px 5px;
+    border-radius: 5px;
+}
+
+#c-menu {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    font-size: 1rem;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+#c-menu:hover {
+    background-color: #EEE;
+}
+
+div.menuitem {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    width: 15ch;
+    text-align: left;
+    text-overflow: ellipsis;
+}
+
+div.menuitem:hover {
+    background-color: rgb(156, 225, 253);
+}
+
+/* Contents */
+
+#l-content {
+    font-family: f_content;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#l-title {
+    font-size: 3rem;
+}
+
+#l-artist {
+    color: gray;
+    padding-bottom: 20px;
+}
