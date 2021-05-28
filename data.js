@@ -115,23 +115,3 @@ const lyrics  = [
         ]
     },
 ];
-/*
-でも そんなんじゃ だーめ
-de mo son nan ja da-me
-〖但是 那样 可不行〗
-もう そんなんじゃ ほーら
-mou son nan ja ho-ra
-〖都说了 那样 你看〗
-心は进化するよ もーっと もーっと
-ko ko ro ha shin ka su ru yo mo-tto mo-tto
-〖这颗心会越陷越深哦 渐渐地 渐渐地〗
-そう そんなんじゃ やーだ
-sou son nan ja iya-da
-〖是啊 那样 我不要〗
-ねぇ そんなんじゃ まーだ
-nee son nan ja ma-da
-〖嗯 那样的话 还不够〗
-私のこと见ててね ずーっと ずーっと
-wa ta shi no ko to mi te te ne zu-tto zu-tto
-〖要你一直认真看着我 要一直 到永远〗
-*/
