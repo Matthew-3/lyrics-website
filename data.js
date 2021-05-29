@@ -1,11 +1,11 @@
-const page_title = "Lyrics Site";
+const page_title = "马福康";
 
 // Update Method: hotload | reload | default
 const setting = {
     'is_lyrics_selectable': true,
     'is_title_selectable': false,
     'is_artist_selectable': false,
-    'update_method': 'default'
+    'update_method': 'reload'
 };
 
 const lyrics  = [
