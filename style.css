@@ -37,6 +37,9 @@
     left: 10px;
     box-shadow: black 2px 2px 5px;
     border-radius: 5px;
+    transform-origin: 0% 0%;
+    background-color: white;
+    overflow: hidden;
 }
 
 #c-menu {
