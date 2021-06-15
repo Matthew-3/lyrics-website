@@ -1,4 +1,4 @@
-const page_title = "马福康";
+const page_title = "Song";
 
 // Update Method: hotload | reload | default
 const setting = {
