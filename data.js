@@ -1,4 +1,4 @@
-const page_title = "Song";
+const page_title = "MADE BY MATTHEW'S FRIEND 诸振宇";
 
 // Update Method: hotload | reload | default
 const setting = {
